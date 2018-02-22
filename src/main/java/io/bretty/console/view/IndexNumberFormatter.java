@@ -1,5 +1,9 @@
 package caffeinated.chimp.console.view;
 
+/**
+ * The interface that format a given index to a string. (e.g. index 0 to {@code "1) "}
+ */
+
 public interface IndexNumberFormatter {
 
     /**
