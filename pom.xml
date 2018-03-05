@@ -6,7 +6,7 @@
 
     <groupId>caffeinated.chimp</groupId>
     <artifactId>console-view</artifactId>
-    <version>3.0</version>
+    <version>3.1</version>
     <build>
         <plugins>
             <plugin>
